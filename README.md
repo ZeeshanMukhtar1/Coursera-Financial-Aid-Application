@@ -34,3 +34,27 @@ Happy learning!
 <details> <summary>Can I audit a course on Coursera while applying for financial aid?</summary> <p>Yes, you can audit a course on Coursera while applying for financial aid.</p> </details>
 
 <details> <summary>Will my future financial aid applications be affected if I don't complete a financial aid course on time?</summary> <p>No, your future financial aid applications won't be affected if you don't complete a financial aid course on time. You can still apply for financial aid for other courses on Coursera.</p> </details>
+
+## Applying for Financial Aid on Coursera
+
+ <details>
+    <summary>Why are you applying for Financial Aid? (150 words minimum required)</summary>
+    <p>Hello, my name is [Your Name] and I am from [Your Country], a developing country. I am applying for Financial Aid for the course "[Course Name]" because I do not have a stable source of income and I cannot afford the full tuition at this time. Receiving Financial Aid for this course will allow me to gain valuable knowledge in [Write Your Career Field, e.g. Data Science], which is essential for my career growth and to make a positive impact in my community.</p>
+     <p>I have been searching for a job for a long time to earn enough money to take this course, but unfortunately, I haven't found one yet. By receiving financial aid, I will be able to focus on my studies and improve my chances of finding a job in my desired field. Additionally, taking this course will enable me to take up a paid internship and pursue other courses in the same field.</p>
+      <p>Investing in my education and career is crucial to me, but I am currently unable to do so due to my financial situation. I am hopeful that receiving financial aid for this course will help me advance my career and provide me with the necessary skills to succeed in my field.</p>
+</details>
+
+<details>
+    <summary>How will taking this course help you achieve your career goals? (150 words minimum required)</summary>
+    <p>I have a keen interest in [Write Your Career Field, e.g. Data Science] and a solid background in [Write Your Related Background, e.g. Mathematics and Statistics]. By taking this course, I will gain essential skills in [Write the Main Skills You Will Learn, e.g. Machine Learning Algorithms], which are highly sought-after in my field.</p>
+     <p>The knowledge and skills gained from this course will help me take up challenging projects and solve real-world problems in my community. I plan on gaining additional skills by taking related courses and attending professional associations. I have also noticed that there are several internship and job opportunities in this field, and I am eager to take advantage of them</p>
+      <p>I strongly believe that taking this course will help me achieve my career goals and contribute to the development of my community. It will provide me with the necessary skills and knowledge to succeed in my desired field and make a positive impact in my society.
+
+</p>
+</details>
+
+<details>
+    <summary>If you answered no, please help us understand why.</summary>
+    <p>I believe that education should be accessible to everyone, regardless of their financial situation. However, in many developing countries, the average rate of income is low, and people struggle to meet their basic needs, such as food, shelter, and healthcare. Therefore, paying for educational courses is often not feasible.</p>
+     <p>I think it is essential to have free courses and educational resources available to those who cannot afford to pay for them. It would provide them with the opportunity to learn new skills, improve their lives, and contribute to the development of their communities. Access to education is a fundamental right, and we need to ensure that everyone has access to it, irrespective of their financial situation.</p>
+</details>
