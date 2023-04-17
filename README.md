@@ -35,6 +35,43 @@ Happy learning!
 
 <details> <summary>Will my future financial aid applications be affected if I don't complete a financial aid course on time?</summary> <p>No, your future financial aid applications won't be affected if you don't complete a financial aid course on time. You can still apply for financial aid for other courses on Coursera.</p> </details>
 
+## Getting Started
+
+<p>As part of my commitment to making the financial aid application process as easy as possible, I've added step-by-step pictures to guide you through the application process for the React.js course on Coursera. Simply follow the instructions and apply for financial aid to unlock the opportunities that online education has to offer.</p>
+<p>
+
+To request financial assistance for this course, provided by Meta on the Coursera platform, please locate the "Financial aid available" hyperlink, denoted with an arrow in the image below: </p>
+
+![Example image](./Asset/Step__1.png 'Click On LinK')
+
+<p>
+
+To proceed with your financial aid application, click on the blue button labeled "Continue" and follow the prompts to complete the application process
+
+ </p>
+
+![Example image](./Asset/Step__2.png 'Click On Continue Button')
+
+<p>
+
+In this section, you will be required to enter your degree/education information, annual income, and the reason for applying, as provided in the section below. To do so, expand the arrow in the section and fill out the required information. </p>
+
+![Example image](./Asset/step__3.png 'An example image')
+
+<p>
+
+Please complete the text box with the response that has been previously provided in below Section: </p>
+
+![Example image](./Asset/Step__4.png 'Fill this information')
+
+<p>
+
+Upon successfully completing all assignments with satisfactory grades, a completion certificate will be awarded to you. The certificate will include details such as the course name, completion date, and relevant signatures. Here is an example of what the certificate will look like.
+
+ </p>
+
+![Example image](./Asset/Completion.png 'Completion Certificate')
+
 ## Applying for Financial Aid on Coursera
 
  <details>
@@ -58,3 +95,11 @@ Happy learning!
     <p>I believe that education should be accessible to everyone, regardless of their financial situation. However, in many developing countries, the average rate of income is low, and people struggle to meet their basic needs, such as food, shelter, and healthcare. Therefore, paying for educational courses is often not feasible.</p>
      <p>I think it is essential to have free courses and educational resources available to those who cannot afford to pay for them. It would provide them with the opportunity to learn new skills, improve their lives, and contribute to the development of their communities. Access to education is a fundamental right, and we need to ensure that everyone has access to it, irrespective of their financial situation.</p>
 </details>
+
+<p>
+
+Thank you for checking out my repository! If you found it helpful, please consider giving it a star on GitHub. Your support will help make it more visible to other students and developers, and it would mean a lot to me. Best of luck in your learning journey!
+
+Sincerely, [Zeeshan Mukhtar](https://www.instagram.com/zeshanmukhtar01/)
+
+</p>
