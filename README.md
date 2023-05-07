@@ -64,13 +64,27 @@ Please complete the text box with the response that has been previously provided
 
 ![Example image](./Asset/Step__4.png 'Fill this information')
 
+<p>  
 <p>
 
+Once the financial aid application is submitted, you will receive an approval email within 15 days. The email will similar to this :
+
+ </p>
+
+![Approval image](./Asset/Approval.png 'Approval email')
+
+<p>
+
+After submitting the related projects to Coursera and scoring a minimum of 80%, you will receive an email with instructions on how to download your certificate
+
+ </p>
+
+![Example image](./Asset/JS%20Meta.png 'Completion Certificate')
 Upon successfully completing all assignments with satisfactory grades, a completion certificate will be awarded to you. The certificate will include details such as the course name, completion date, and relevant signatures. Here is an example of what the certificate will look like.
 
  </p>
 
-![Example image](./Asset/Completion.png 'Completion Certificate')
+![certificate image](./Asset/Completion.png 'Completion Certificate')
 
 ## Applying for Financial Aid on Coursera
 
