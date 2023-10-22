@@ -111,9 +111,9 @@ Upon successfully completing all assignments with satisfactory grades, a complet
 </details>
 
 <p>
-
-Thank you for checking out my repository! If you found it helpful, please consider giving it a star on GitHub. Your support will help make it more visible to other students and developers, and it would mean a lot to me. Best of luck in your learning journey!
-
-Sincerely, [Zeeshan Mukhtar](https://www.instagram.com/zeshanmukhtar01/)
-
+  Thank you for checking out my repository! If you found it helpful, please consider giving it a star on GitHub. Your support will help make it more visible to other students and developers, and it would mean a lot to me. Best of luck in your learning journey!
 </p>
+
+<a href="https://www.instagram.com/zeshanmukhtar01/">
+<img src="https://img.shields.io/badge/Follow%20me-%40zeshanmukhtar01-%23bc2a8d?style=for-the-badge&logo=instagram" alt="Instagram">
+</a>
